@@ -1,0 +1,20 @@
+{
+  "name": "tweet_socialmedia",
+  "version": "1.0.0",
+  "description": "tweet interface for ppl",
+  "main": "bot.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start":"/bot.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tweet",
+    "api",
+    "social",
+    "media"
+  ],
+  "author": "Buğra Uğur Yazıcı",
+  "license": "ISC"
+}
